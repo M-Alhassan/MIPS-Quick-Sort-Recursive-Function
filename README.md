@@ -4,7 +4,7 @@ A program that performs a quick sort algorithm recursively.
 
 ## ⚙️ Technologies
 
--   Assembly
+-   MIPS Assembly Language
 
 ## ⚡ Features
 
